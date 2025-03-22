@@ -6,22 +6,21 @@ export * from './career'
 export const name = 'Square-pizza！'
 export const headline = 'A student from Beijing University of Technology studying vortex-induced vibration and CFD, with a passion for photography and writing essays.'
 export const introduction =
-  "HAhA"
-export const email = 'tong.hu@scls-sh.org'
-export const githubUsername = 'derekhut'
+  "Calm down, where is my relaxing mucis CD?!"
+export const email = '771375474@qq.com'
+export const githubUsername = 'Squarepizza'
 
 // about page
-export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
+export const aboutMeHeadline = 'Why am I called Square Pizza?'
 export const aboutParagraphs = [
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020.",
-  'Currently I am working on a new course called AI Camp, an innovative course where high school students create real-world products and startups while exploring the frontiers of AI.',
-  "I started this blog to share the insights I learn every day. Most blogs focus on education in Artificial Intelligence and general computer science, while others share the life lessons I've learned.",
+  "Square pizza? What's wrong with this crazy state!",
+  'Son, there will come a time in your life when you learn to accept all pizza',
 ]
 
 // blog
 export const blogHeadLine = "What I've thinking about."
 export const blogIntro =
-  "I've written something about AI, programming and life."
+  "I will write down my thoughts on life and my emotional reflections.."
 
 // social links
 export type SocialLinkType = {
